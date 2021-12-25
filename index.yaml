@@ -3,6 +3,16 @@ entries:
   shadowsocks:
   - apiVersion: v2
     appVersion: v3.3.5
+    created: "2021-12-25T09:44:05.944181639Z"
+    description: A Helm chart for Kubernetes
+    digest: 6921dec7b6b0d9339928863125979995d395f4d9d5d7044e5f406518d6321e8f
+    name: shadowsocks
+    type: application
+    urls:
+    - https://github.com/predatorray/charts/releases/download/shadowsocks-0.1.2/shadowsocks-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: v3.3.5
     created: "2021-02-15T14:12:09.022949866Z"
     description: A Helm chart for Kubernetes
     digest: 3f06917bccbc908904b904a4adda0d4f163609a54c5ad41776abc8cc0e8d431b
